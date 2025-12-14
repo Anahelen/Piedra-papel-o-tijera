@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Fredoka', cursive;
+    background: linear-gradient(to right, #070707);
+}
+
+.titulo {
+    font-size: 8rem;        
+    text-align: center;
+}
+
+.subtitulo {
+    font-size: 10rem;
+    text-align: center;
+    margin-top: -10px;
+    color: #ccc;
+}
+
+
+
+
